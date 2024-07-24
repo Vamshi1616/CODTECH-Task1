@@ -22,5 +22,7 @@ KEY ACTIVITES :
 
 TECHNOLOGIES USED
 HTML : language used to create the structure of web pages
+
 CSS  : CSS is used to control the presentation and layout of the web pages
+
 JAVA SCRIPT : JavaScript is a programming language that adds interactivity and dynamic behavior to web pages.
